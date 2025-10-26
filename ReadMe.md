@@ -1,12 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working as Business Intelligence Assistant<br>🌱 I’m currently learning Python
+# Diogo Minoru Kokubu
+### 💫 Sobre:
+
+Analista de Business Intelligence.
+Experiência em desenvolvimento de pipelines de dados, ETL, Data Warehouse, automação de relatórios e indicadores estratégicos utilizando SQL, DBT, Airflow, Pentaho, QlikView e Power BI.
+
+Atualmente em transição para Engenharia de Dados, com projetos práticos envolvendo cloud (AWS), automações com Airflow, pipelines de dados, ETL, SQL, DBT, coleta de dados via APIs e web scraping, buscando oportunidades para aplicar conhecimentos em ambientes escaláveis e de alta disponibilidade.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogokokubu) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=diogo-minoru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=diogo-minoru&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-minoru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
